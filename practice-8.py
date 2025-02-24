@@ -24,5 +24,6 @@ print (x > 1 and x < 6)
 print (x > 1 or x < 6)
 print (not(x > 1 and x < 6))
 print(100 + 5 * 3)
+print(1 + 1 * 3)
 
 print(1 >> 1)
